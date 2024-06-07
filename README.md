@@ -9,6 +9,6 @@ Predictive Maintenance System bertujuan untuk meminimalkan downtime dan biaya de
 Situs website yang telah saya buat untuk predictive maintenance system menampilkan judul "Free Efficiency Perfected" dengan tagline "Take advantage of free fast and reliable predictive maintenance system prediction now!". Situs web Predictive Maintenance System memiliki navigasi utama dengan pilihan seperti "Home", "About", "Services", dan "Contact". Sistem ini menggunakan sensor untuk pemantauan serta algoritma machine learning dan artificial intelligence untuk menganalisis data. Sehingga, predictive maintenance system dapat memprediksi potensi kegagalan sebelum terjadi.
 
 ## Form
-![Form Predictive Maintenance System](image/Form Predictive Maintenance System.png)
+![Form Predictive Maintenance System](image/Form.png)
 
 Untuk bagian form saya membuat agar pengguna dapat mengunggah gambar yang akan diprediksi oleh predictive maintenance system. Pengguna dapat memilih dua cara untuk memasukkan gambar. Dengan mengklik tombol "Select Your Picture" untuk memilih gambar atau dengan drag & fdrop gambar ke area yang disediakan. Setelah gambar dimasukkan, klik tombol "Predict" untuk memulai proses prediksi kerusakan. Selanjutnya, sistem akan menganalisis serta memberikan hasil prediksi.
