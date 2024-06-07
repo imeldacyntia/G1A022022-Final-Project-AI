@@ -1,0 +1,14 @@
+{
+  "name": "Predictive Maintenance System",
+  "version": "1.0.0",
+  "description": "Take advantage of free fast and reliable predictive maintenance system prediction now!",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
